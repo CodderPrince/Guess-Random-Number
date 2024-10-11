@@ -1,0 +1,15 @@
+Cython==0.29.23
+distlib==0.3.8
+et-xmlfile==1.1.0
+filelock==3.16.1
+numpy==2.1.2
+openpyxl==3.1.5
+pandas==2.2.3
+platformdirs==4.3.6
+python-dateutil==2.9.0.post0
+pytz==2024.2
+setuptools==75.1.0
+six==1.16.0
+tzdata==2024.2
+virtualenv==20.26.6
+wheel==0.44.0
